@@ -1,0 +1,5 @@
+# ninja log v5
+23	192	7419770843997533	CMakeFiles/StackLinkedBased.dir/Stack.c.obj	b0ec6c0dcbbfc928
+1	195	7419770843997533	CMakeFiles/StackLinkedBased.dir/main.c.obj	b8afc01414e0a190
+2	88	7419771403119582	CMakeFiles/StackLinkedBased.dir/main.c.obj	b8afc01414e0a190
+89	221	7419771404360046	StackLinkedBased.exe	92dfb3e3a95e213b

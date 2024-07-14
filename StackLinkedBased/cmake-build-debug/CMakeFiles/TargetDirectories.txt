@@ -1,0 +1,3 @@
+C:/Users/user1/CLionProjects/StackLinkedBased/cmake-build-debug/CMakeFiles/StackLinkedBased.dir
+C:/Users/user1/CLionProjects/StackLinkedBased/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user1/CLionProjects/StackLinkedBased/cmake-build-debug/CMakeFiles/rebuild_cache.dir

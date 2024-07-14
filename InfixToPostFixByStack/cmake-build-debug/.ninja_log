@@ -1,0 +1,4 @@
+# ninja log v5
+0	195	7426700933132747	CMakeFiles/InfixToPostFixByStack.dir/main.c.obj	c463e893a77c8dcf
+12	200	7426700933176610	CMakeFiles/InfixToPostFixByStack.dir/Stack.c.obj	72106b444f18738d
+201	512	7426700936162520	InfixToPostFixByStack.exe	ae05b8f743b1fa66

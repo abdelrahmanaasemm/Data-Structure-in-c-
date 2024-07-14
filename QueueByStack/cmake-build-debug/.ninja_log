@@ -1,0 +1,24 @@
+# ninja log v5
+1	93	7426360969311063	CMakeFiles/QueueByStack.dir/main.c.obj	4c25536bb2b869e8
+7	110	7426360969490827	CMakeFiles/QueueByStack.dir/Stack.c.obj	bc0d8d9d9ec3a7a1
+1	75	7426361162509959	CMakeFiles/QueueByStack.dir/Queue.c.obj	adde72210b48aad3
+75	213	7426361163843002	QueueByStack.exe	afb6ef517b282209
+3	155	7426366930287372	CMakeFiles/QueueByStack.dir/main.c.obj	4c25536bb2b869e8
+14	158	7426366930308808	CMakeFiles/QueueByStack.dir/Queue.c.obj	adde72210b48aad3
+159	348	7426366932157615	QueueByStack.exe	afb6ef517b282209
+3	144	7426367189245198	CMakeFiles/QueueByStack.dir/main.c.obj	4c25536bb2b869e8
+145	408	7426367191797100	QueueByStack.exe	afb6ef517b282209
+3	171	7426367483171591	CMakeFiles/QueueByStack.dir/main.c.obj	4c25536bb2b869e8
+15	180	7426367483238393	CMakeFiles/QueueByStack.dir/Queue.c.obj	adde72210b48aad3
+26	201	7426367483459049	CMakeFiles/QueueByStack.dir/Stack.c.obj	bc0d8d9d9ec3a7a1
+201	347	7426367484870053	QueueByStack.exe	afb6ef517b282209
+2	130	7426367799691666	CMakeFiles/QueueByStack.dir/Queue.c.obj	adde72210b48aad3
+131	288	7426367801192319	QueueByStack.exe	afb6ef517b282209
+4	175	7426369691695152	CMakeFiles/QueueByStack.dir/Queue.c.obj	adde72210b48aad3
+176	337	7426369693261616	QueueByStack.exe	afb6ef517b282209
+9	125	7426370035260110	CMakeFiles/QueueByStack.dir/Queue.c.obj	adde72210b48aad3
+3	129	7426370035303152	CMakeFiles/QueueByStack.dir/main.c.obj	4c25536bb2b869e8
+2	296	7426370060981389	CMakeFiles/QueueByStack.dir/main.c.obj	4c25536bb2b869e8
+297	530	7426370063133281	QueueByStack.exe	afb6ef517b282209
+2	120	7426370304376355	CMakeFiles/QueueByStack.dir/main.c.obj	4c25536bb2b869e8
+120	286	7426370305969779	QueueByStack.exe	afb6ef517b282209

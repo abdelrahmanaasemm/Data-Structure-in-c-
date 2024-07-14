@@ -1,0 +1,3 @@
+C:/Users/user1/CLionProjects/QueueByStack/cmake-build-debug/CMakeFiles/QueueByStack.dir
+C:/Users/user1/CLionProjects/QueueByStack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user1/CLionProjects/QueueByStack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
